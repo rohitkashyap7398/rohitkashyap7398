@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Rohit%20Kashyap&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%C2%B7%20UI%2FUX%20Designer%20%C2%B7%20AI%20Tools&descAlignY=58&descSize=18" width="100%"/>
 
-<img src="Whisk_00f9990c0632e19843c40d8414691169dr.png" alt="Rohit Kashyap"/>
+<img src="Whisk_00f9990c0632e19843c40d8414691169dr.png" width="150" style="border-radius: 50%; border: 3px solid #58a6ff;" alt="Rohit Kashyap"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=15&duration=2500&pause=800&color=3FB950&center=true&vCenter=true&multiline=false&width=600&lines=Building+things+that+look+good+AND+work+%F0%9F%9A%80;MERN+Stack+%7C+UI%2FUX+%7C+Three.js+%7C+GSAP+%7C+AI+Tools;100%2B+Projects+Shipped+%E2%9C%A6;Open+to+Internships+%26+Full-time+Roles)](https://git.io/typing-svg)
 
