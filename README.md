@@ -1,14 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Rohit%20Kashyap&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%C2%B7%20UI%2FUX%20Designer%20%C2%B7%20AI%20Tools&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=220&section=header&text=Rohit%20Kashyap&fontSize=55&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20%E2%80%A2%20UI%2FUX%20Designer%20%E2%80%A2%20AI%20Tools&descAlignY=62&descSize=18&stroke=58a6ff&strokeWidth=2" width="100%"/>
 
-<img src="Whisk_00f9990c0632e19843c40d8414691169dr.png" width="150" style="border-radius: 50%; border: 3px solid #58a6ff;" alt="Rohit Kashyap"/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=15&duration=2500&pause=800&color=3FB950&center=true&vCenter=true&multiline=false&width=600&lines=Building+things+that+look+good+AND+work+%F0%9F%9A%80;MERN+Stack+%7C+UI%2FUX+%7C+Three.js+%7C+GSAP+%7C+AI+Tools;100%2B+Projects+Shipped+%E2%9C%A6;Open+to+Internships+%26+Full-time+Roles)](https://git.io/typing-svg)
+<a href="https://cool-dango-ca326e.netlify.app/">
+  <img src="Whisk_00f9990c0632e19843c40d8414691169dr.png" width="140" height="140" style="border-radius:50%"/>
+</a>
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-FF5733?style=for-the-badge)](https://cool-dango-ca326e.netlify.app/)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=16&duration=2500&pause=800&color=3FB950&center=true&vCenter=true&multiline=false&width=650&lines=🚀+Building+things+that+look+good+AND+work!;⚡+MERN+%7C+UI%2FUX+%7C+Three.js+%7C+GSAP+%7C+AI+Tools;✦+100%2B+Projects+Shipped+Worldwide;🎯+Open+to+Internships+%26+Full-time+Roles;💡+Figma+first%2C+code+second!)](https://git.io/typing-svg)
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-FF5733?style=for-the-badge&logoColor=white)](https://cool-dango-ca326e.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohit-kashyap73)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohitkashyap3464@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rohitkashyap7398)
@@ -37,9 +41,15 @@ const rohit = {
 };
 ```
 
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=80&text=100%2B%20Projects%20%20%7C%20%202%2B%20Years%20%20%7C%20%206%2B%20Stacks%20%20%7C%20%202%20Companies&fontSize=18&fontColor=fff&animation=fadeIn&fontAlignY=55" width="100%"/>
+</div>
+
 ---
 
 ## ⚡ Tech Stack & Skills
+
+<div align="center">
 
 ### 🖥️ Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -84,129 +94,43 @@ const rohit = {
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
----
-
-## 🚀 100+ Projects — Selected Work
-
-> 🔗 **[View All 100+ Projects on Portfolio →](https://cool-dango-ca326e.netlify.app/#work)**
-
-### 🏗️ Full Stack Projects (15)
-
-| # | Project | Tech Stack | Type |
-|---|---------|-----------|------|
-| 01 | 🎓 **Nalanda Open University** — Academic portal with admin, student CRUD & attendance | Python · Django · MySQL | `Live 2024` |
-| 02 | 📖 **Library Management System** — MERN LMS with JWT auth, full CRUD & responsive UI | MongoDB · Express · React · Node | `Live 2024` |
-| 03 | 🛒 **E-Commerce Dashboard** — Admin panel with inventory, orders, analytics | Next.js · MongoDB · Tailwind | `Live 2024` |
-| 04 | 🍕 **Food Delivery App** — Real-time tracking, cart & payment gateway | React · Node.js · MongoDB | `Live 2024` |
-| 05 | 📝 **Blog CMS Platform** — Rich text editor, tags, categories & SEO | Next.js · Prisma · PostgreSQL | `Live 2024` |
-| 06 | 💼 **Job Portal** — Recruiter/candidate roles & resume upload | MERN · JWT · Cloudinary | `Live 2023` |
-| 07 | 🏥 **Hospital Management** — Patient records, doctor scheduling, role-based access | React · Node.js · MongoDB | `Beta 2024` |
-| 08 | 🏠 **Real Estate Platform** — Property listings, map view, filters & agent profiles | Next.js · MongoDB · Mapbox | `Live 2024` |
-| 09 | 📱 **Social Media App** — Posts, likes, comments, follow system & real-time chat | React · Node.js · Socket.io | `Beta 2024` |
-| 10 | 🎓 **Online Learning Platform** — Video streaming, quiz, progress tracking & certificates | Next.js · MongoDB · Stripe | `Live 2024` |
-| 11 | ✈️ **Travel Booking App** — Hotels, flights, tours & itinerary builder | MERN · Stripe · Mapbox | `Live 2024` |
-| 12 | 💰 **Expense Tracker** — Personal finance tracker with charts & budget goals | React · Node.js · MongoDB | `Live 2024` |
-
-### 🎨 Frontend Projects (15)
-
-| # | Project | Tech Stack |
-|---|---------|-----------|
-| 01 | 👓 **Lenskart Clone** — Responsive e-commerce with cart, filters & routing | React.js · CSS · JS |
-| 02 | 🎮 **GTA VI Landing Page** — Cinematic interactive landing with animations | React · Tailwind · Framer Motion |
-| 03 | 🟤 **OCHI Clone** — Smooth scroll creative experience | React · GSAP · JS |
-| 04 | 👗 **Fashion Agency** — Stylish agency website with modern layout | HTML · CSS · JS |
-| 05 | 🌀 **3D Portfolio Website** — Three.js powered interactive 3D portfolio | Three.js · GSAP · React |
-| 06 | 🎵 **Music Streaming UI** — Spotify-inspired music player UI | React · Tailwind · Framer |
-| 07 | 🍎 **Apple Website Clone** — Pixel-perfect Apple.com recreation | React · GSAP · Three.js |
-| 08 | 🚗 **Tesla Landing Page** — Scroll-driven Tesla homepage clone | React · Framer Motion |
-| 09 | 👟 **Nike Store UI** — Animated product showcase with 3D view | React · Three.js · Tailwind |
-| 10 | 🏋️ **Fitness App UI** — Workout tracker with animated progress | React · Framer · Tailwind |
-
-### 🤖 AI / ML Projects (10)
-
-| # | Project | Tech Stack |
-|---|---------|-----------|
-| 01 | 🤖 **AI Chatbot** — GPT-4 powered chatbot with streaming responses | React · OpenAI API · Node.js |
-| 02 | 🖼️ **AI Image Generator** — DALL-E powered image creation app | React · OpenAI API · Node.js |
-| 03 | 📝 **AI Content Writer** — Blog, social media & copy generator | Next.js · GPT-4 · Tailwind |
-| 04 | 🔍 **AI Code Reviewer** — Automated code review with suggestions | React · OpenAI API · MongoDB |
-| 05 | 🎨 **AI Art Studio** — Midjourney + DALL-E multi-model image studio | React · OpenAI · Midjourney API |
-| 06 | 📊 **AI Data Analyzer** — Upload CSV, ask questions, get insights | Next.js · LangChain · Python |
-| 07 | 💬 **AI Resume Builder** — GPT-4 powered resume generator | React · OpenAI API · PDF.js |
-| 08 | 🌐 **AI Translation App** — Real-time multilingual translation | React · OpenAI API · Node |
-| 09 | 🎙️ **Voice AI Assistant** — Speech-to-text AI assistant | React · Whisper API · GPT-4 |
-| 10 | 🛒 **AI Product Recommender** — Smart product suggestions using AI | MERN · OpenAI API |
-
-### 📱 Mobile Projects (10)
-
-| # | Project | Tech Stack |
-|---|---------|-----------|
-| 01 | 📱 **Fitness Tracker App** — Workout logging & progress charts | React Native · Expo · Firebase |
-| 02 | 🍕 **Food Order App** — Restaurant ordering & real-time tracking | React Native · Node.js · MongoDB |
-| 03 | 💬 **Chat App** — Real-time messaging with push notifications | React Native · Socket.io · Firebase |
-| 04 | 🛒 **Shopping App** — Full e-commerce with cart & payments | React Native · Stripe · MongoDB |
-| 05 | 📰 **News App** — Category-based news feed with bookmarks | React Native · News API · Expo |
-| 06 | 🎵 **Music Player** — Offline music player with playlists | React Native · Expo AV |
-| 07 | 💰 **Budget Tracker** — Income/expense tracking with charts | React Native · AsyncStorage |
-| 08 | 🗺️ **Maps & Navigation** — Location-based app with directions | React Native · Maps API |
-| 09 | 🏋️ **Workout Planner** — AI-powered workout planning app | React Native · OpenAI API |
-| 10 | 📸 **Photo Editor** — Filters, crop & share for mobile | React Native · Expo ImagePicker |
-
-### 🎨 UI/UX & Clone Projects (30+)
-
-| Projects | Stack |
-|---------|-------|
-| Airbnb Clone · Uber Clone · Twitter/X Clone · Instagram Clone | MERN |
-| Netflix Clone · YouTube Clone · Amazon Clone · Flipkart Clone | React · Node |
-| WhatsApp Web Clone · Discord Clone · Slack Clone | React · Socket.io |
-| Notion Clone · Trello Clone · Figma Landing · Linear Clone | Next.js · Tailwind |
-| Portfolio Templates (5 variants) · Agency Sites (4 variants) | React · GSAP |
-| Dashboard Templates (Admin · Analytics · CRM) | React · Recharts |
-| Landing Pages (SaaS · Startup · Product) | Next.js · Framer |
-| **+ 10 more on [Portfolio →](https://cool-dango-ca326e.netlify.app/)** | |
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=rohitkashyap7398&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=e6edf3&ring_color=58a6ff"/>
-&nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitkashyap7398&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=e6edf3&langs_count=8"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=rohitkashyap7398&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=f0883e&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e"/>
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=rohitkashyap7398&theme=algolia&no-frame=true&no-bg=true&margin-w=6&row=1&column=7"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rohitkashyap7398&bg_color=0d1117&color=58a6ff&line=3fb950&point=f0883e&area=true&hide_border=true"/>
-
 </div>
 
 ---
 
 ## 📈 Skills Proficiency
 
-```
-Frontend    ████████████████████░░   90%
-JavaScript  ███████████████████░░░   90%
-UI/UX       ████████████████████░░   88%
-Next.js     ████████████████████░░   88%
-Node.js     ████████████████████░░   85%
-MongoDB     ████████████████████░░   85%
-Tailwind    ████████████████████░░   90%
-GSAP        ██████████████████░░░░   78%
-Three.js    ██████████████████░░░░   72%
-Framer      ██████████████████░░░░   85%
-AI Tools    ████████████████████░░   88%
-Figma       ████████████████████░░   88%
-```
+<div align="center">
+
+### 🎨 Frontend & Design
+| Skill | Level | Proficiency |
+|-------|-------|-------------|
+| ⚛️ React & Next.js | `Expert` | ![90%](https://progress-bar.xyz/90/?scale=100&title=&width=280&color=61DAFB&suffix=%) |
+| 🟨 JavaScript | `Expert` | ![90%](https://progress-bar.xyz/90/?scale=100&title=&width=280&color=F7DF1E&suffix=%) |
+| 🎨 UI/UX & Figma | `Expert` | ![88%](https://progress-bar.xyz/88/?scale=100&title=&width=280&color=F24E1E&suffix=%) |
+| 💨 Tailwind CSS | `Expert` | ![90%](https://progress-bar.xyz/90/?scale=100&title=&width=280&color=06B6D4&suffix=%) |
+
+### ⚡ Animation & 3D
+| Skill | Level | Proficiency |
+|-------|-------|-------------|
+| 🟢 GSAP | `Advanced` | ![78%](https://progress-bar.xyz/78/?scale=100&title=&width=280&color=88CE02&suffix=%) |
+| 🔺 Three.js | `Advanced` | ![72%](https://progress-bar.xyz/72/?scale=100&title=&width=280&color=ffffff&suffix=%) |
+| 🔵 Framer Motion | `Advanced` | ![85%](https://progress-bar.xyz/85/?scale=100&title=&width=280&color=0055FF&suffix=%) |
+
+### 🔧 Backend & Database
+| Skill | Level | Proficiency |
+|-------|-------|-------------|
+| 🟩 Node.js & Express | `Expert` | ![85%](https://progress-bar.xyz/85/?scale=100&title=&width=280&color=339933&suffix=%) |
+| 🍃 MongoDB | `Expert` | ![85%](https://progress-bar.xyz/85/?scale=100&title=&width=280&color=47A248&suffix=%) |
+| 🐍 Python & Django | `Intermediate` | ![70%](https://progress-bar.xyz/70/?scale=100&title=&width=280&color=3776AB&suffix=%) |
+
+### 🤖 AI & Tools
+| Skill | Level | Proficiency |
+|-------|-------|-------------|
+| 🧠 AI Dev Tools | `Expert` | ![88%](https://progress-bar.xyz/88/?scale=100&title=&width=280&color=bc8cff&suffix=%) |
+| 🐙 Git & GitHub | `Expert` | ![92%](https://progress-bar.xyz/92/?scale=100&title=&width=280&color=F05032&suffix=%) |
+
+</div>
 
 ---
 
@@ -225,7 +149,7 @@ Figma       ████████████████████░░  
 
 **🏢 Digi{Coders} Technologies** `Jan 2024 – Dec 2024`
 > Frontend Developer
-> Built production-level projects across multiple stacks, Lucknow
+> Built production-level projects across multiple stacks
 
 </td>
 </tr>
@@ -246,8 +170,6 @@ Figma       ████████████████████░░  
 
 ## 🐍 Contribution Snake
 
-> ⚡ **Snake setup ke liye** — [Step-by-step guide neeche dekho](#snake-setup)
-
 ![snake gif](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
 
 ---
@@ -260,6 +182,8 @@ Figma       ████████████████████░░  
 
 ## 🎯 What I Offer
 
+<div align="center">
+
 | Service | Description |
 |---------|-------------|
 | 🌐 **Full Stack Web Dev** | End-to-end MERN apps — DB design to pixel-perfect frontend |
@@ -269,13 +193,17 @@ Figma       ████████████████████░░  
 | ⚡ **Frontend & Animations** | Cinematic UIs with GSAP, Framer Motion & Three.js |
 | 🔧 **API & Backend Dev** | Robust REST APIs, auth systems & payment integrations |
 
+</div>
+
 ---
 
 <div align="center">
 
 ### 📫 Let's Build Something Epic Together!
 
-*Open to internships · full-time roles · freelance projects*
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=13&duration=3000&pause=1000&color=8B949E&center=true&vCenter=true&width=500&lines=Open+to+internships+%E2%80%A2+full-time+roles+%E2%80%A2+freelance+projects)](https://git.io/typing-svg)
+
+<br/>
 
 [![Portfolio](https://img.shields.io/badge/🌐%20View%20100%2B%20Projects-FF5733?style=for-the-badge)](https://cool-dango-ca326e.netlify.app/)
 [![Hire Me](https://img.shields.io/badge/📧%20Hire%20Me-EA4335?style=for-the-badge)](mailto:rohitkashyap3464@gmail.com)
@@ -287,6 +215,6 @@ Figma       ████████████████████░░  
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=130&section=footer&text=Thanks%20for%20visiting!%20⭐&fontSize=22&fontColor=fff&animation=twinkling&fontAlignY=70" width="100%"/>
 
 </div>
