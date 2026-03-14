@@ -3,7 +3,8 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=220&section=header&text=Rohit%20Kashyap&fontSize=55&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20%E2%80%A2%20UI%2FUX%20Designer%20%E2%80%A2%20AI%20Tools&descAlignY=62&descSize=18&stroke=58a6ff&strokeWidth=2" width="100%"/>
 
 <a href="https://cool-dango-ca326e.netlify.app/">
-  <img src="Whisk_00f9990c0632e19843c40d8414691169dr.png" width="140" height="140" style="border-radius:50%"/>
+  <img src="Whisk_00f9990c0632e19843c40d8414691169dr.png" width="140" height="140" style="border-radius:50%;
+  object-fit:cover;"/>
 </a>
 
 <br/>
