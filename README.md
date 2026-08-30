@@ -1,3 +1,157 @@
+<div align="center">
+
+# 👋 Hi, I'm Rohit Kashyap
+
+### 💻 Full Stack Developer | MERN | UI/UX | Creative Developer
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF88&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;MERN+Stack+Developer;UI%2FUX+Designer;React+%7C+Next.js+Developer;Three.js+%7C+GSAP+Developer">
+
+<br>
+
+<a href="https://github.com/rohitkashyap7398">
+<img src="https://img.shields.io/badge/GitHub-rohitkashyap7398-181717?style=for-the-badge&logo=github">
+</a>
+
+<a href="https://www.linkedin.com/in/rohit-kashyap73">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin">
+</a>
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+I'm **Rohit Kashyap**, a passionate **Full Stack Developer** who loves creating modern, responsive and interactive digital experiences.
+
+- 🚀 Full Stack / MERN Developer
+- ⚛️ React & Next.js Developer
+- 🎨 UI/UX Designer
+- 🎬 Three.js & GSAP enthusiast
+- 🤖 Exploring AI & modern web technologies
+- 💡 Building creative digital products
+- 🏢 Building TheCodeSpark Technologies
+
+---
+
+## 🛠️ Technologies & Tools
+
+### Frontend
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,redux">
+</p>
+
+### Backend & Database
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,python">
+</p>
+
+### Design & Creative Development
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=figma,threejs">
+</p>
+
+### Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify,postman">
+</p>
+
+---
+
+# 📊 GitHub Statistics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=rohitkashyap7398&show_icons=true&theme=github_dark&hide_border=true">
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitkashyap7398&layout=compact&theme=github_dark&hide_border=true">
+
+</div>
+
+---
+
+<div align="center">
+
+# 👋 Hi, I'm Rohit Kashyap
+
+### 💻 Full Stack Developer | MERN | UI/UX | Creative Developer
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF88&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;MERN+Stack+Developer;UI%2FUX+Designer;React+%7C+Next.js+Developer;Three.js+%7C+GSAP+Developer">
+
+<br>
+
+<a href="https://github.com/rohitkashyap7398">
+<img src="https://img.shields.io/badge/GitHub-rohitkashyap7398-181717?style=for-the-badge&logo=github">
+</a>
+
+<a href="https://www.linkedin.com/in/rohit-kashyap73">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin">
+</a>
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+I'm **Rohit Kashyap**, a passionate **Full Stack Developer** who loves creating modern, responsive and interactive digital experiences.
+
+- 🚀 Full Stack / MERN Developer
+- ⚛️ React & Next.js Developer
+- 🎨 UI/UX Designer
+- 🎬 Three.js & GSAP enthusiast
+- 🤖 Exploring AI & modern web technologies
+- 💡 Building creative digital products
+- 🏢 Building TheCodeSpark Technologies
+
+---
+
+## 🛠️ Technologies & Tools
+
+### Frontend
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,redux">
+</p>
+
+### Backend & Database
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,python">
+</p>
+
+### Design & Creative Development
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=figma,threejs">
+</p>
+
+### Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify,postman">
+</p>
+
+---
+
+# 📊 GitHub Statistics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=rohitkashyap7398&show_icons=true&theme=github_dark&hide_border=true">
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitkashyap7398&layout=compact&theme=github_dark&hide_border=true">
+
+</div>
+
 ---
 
 # 🔥 GitHub Streak
@@ -34,7 +188,7 @@
 
 <div align="center">
 
-### 🎨 UI/UX
+### 🎨 UI/UX Projects
 
 <a href="https://github.com/rohitkashyap7398/ui-ux">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=rohitkashyap7398&repo=ui-ux&theme=github_dark&hide_border=true">
@@ -64,9 +218,10 @@
 | ⚛️ Frontend | React, JavaScript, Tailwind |
 | ⚙️ Backend | Node.js, Express |
 | 🗄️ Database | MongoDB, MySQL |
-| 🎨 UI/UX | Figma |
+| 🎨 UI/UX | Figma, Modern UI |
 | 🎬 Creative Web | Three.js, GSAP |
-| 🤖 AI | AI Applications |
+| 🤖 AI | AI-powered applications |
+| 🚀 Deployment | Vercel, Netlify |
 
 ---
 
@@ -77,6 +232,7 @@
 - 🎨 Modern UI/UX
 - 🎬 Three.js & GSAP
 - 🤖 AI Integrations
+- 🚀 Real-World Digital Products
 
 ---
 
