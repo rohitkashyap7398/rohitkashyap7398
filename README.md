@@ -4,7 +4,7 @@
 
 ### 💻 Full Stack Developer | MERN | UI/UX | Creative Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF88&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;MERN+Stack+Developer;UI%2FUX+Designer;React+%7C+Next.js+%7C+Node.js;Three.js+%7C+GSAP;Building+Modern+Web+Experiences" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF88&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;MERN+Stack+Developer;UI%2FUX+Designer;React+%7C+Next.js+Developer;Three.js+%7C+GSAP+Developer;Building+Modern+Web+Experiences" />
 
 <br><br>
 
@@ -22,8 +22,8 @@
 
 ## 👨‍💻 About Me
 
-I'm **Rohit Kashyap**, a passionate Full Stack Developer focused on creating
-modern, responsive and interactive digital experiences.
+I'm **Rohit Kashyap**, a passionate **Full Stack Developer** focused on
+creating modern, responsive and interactive digital experiences.
 
 - 🚀 Full Stack / MERN Developer
 - ⚛️ React & Next.js Developer
@@ -35,32 +35,40 @@ modern, responsive and interactive digital experiences.
 
 ---
 
-# 🛠️ Technologies & Tools
+# 🛠️ Mastered Technologies & Tools
 
-### Frontend
+### 💻 Frontend
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,redux">
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,redux" />
 </p>
 
-### Backend & Database
+### ⚙️ Backend & Database
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,python,django">
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,python,django" />
 </p>
 
-### Design & Creative Development
+### 🎨 Design & Creative Development
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=figma,threejs">
+<p align="center">
+<img src="https://skillicons.dev/icons?i=figma,threejs" />
 </p>
 
-**GSAP • Three.js • Framer Motion • UI/UX • Motion Design**
+<p align="center">
 
-### Tools
+<strong>GSAP</strong> •
+<strong>Three.js</strong> •
+<strong>Framer Motion</strong> •
+<strong>UI/UX</strong> •
+<strong>Motion Design</strong>
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify,postman">
+</p>
+
+### 🔧 Development Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify,postman" />
 </p>
 
 ---
@@ -72,12 +80,12 @@ modern, responsive and interactive digital experiences.
 <img
 src="https://github-readme-stats.vercel.app/api?username=rohitkashyap7398&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true"
 width="48%"
->
+/>
 
 <img
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitkashyap7398&layout=compact&theme=github_dark&hide_border=true&langs_count=10"
 width="40%"
->
+/>
 
 </div>
 
@@ -89,8 +97,8 @@ width="40%"
 
 <img
 src="https://streak-stats.demolab.com?user=rohitkashyap7398&theme=github-dark-blue&hide_border=true"
-width="70%"
->
+width="75%"
+/>
 
 </div>
 
@@ -103,7 +111,7 @@ width="70%"
 <img
 src="https://github-readme-activity-graph.vercel.app/graph?username=rohitkashyap7398&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Activity"
 width="100%"
->
+/>
 
 </div>
 
@@ -117,7 +125,7 @@ width="100%"
 src="https://raw.githubusercontent.com/rohitkashyap7398/rohitkashyap7398/output/github-contribution-grid-snake.svg"
 width="100%"
 alt="Contribution Snake"
->
+/>
 
 </div>
 
@@ -130,15 +138,15 @@ alt="Contribution Snake"
 <a href="https://github.com/rohitkashyap7398/ochi">
 <img
 src="https://github-readme-stats.vercel.app/api/pin/?username=rohitkashyap7398&repo=ochi&theme=github_dark&hide_border=true"
->
+/>
 </a>
 
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 
 <a href="https://github.com/rohitkashyap7398/GTAVI-main">
 <img
 src="https://github-readme-stats.vercel.app/api/pin/?username=rohitkashyap7398&repo=GTAVI-main&theme=github_dark&hide_border=true"
->
+/>
 </a>
 
 </div>
@@ -147,27 +155,35 @@ src="https://github-readme-stats.vercel.app/api/pin/?username=rohitkashyap7398&r
 
 # 💼 What I Build
 
-| Area | Technologies |
-|---|---|
-| 🌐 Full Stack | MERN, Next.js |
-| ⚛️ Frontend | React, JavaScript, Tailwind |
-| ⚙️ Backend | Node.js, Express |
-| 🗄️ Database | MongoDB, MySQL |
-| 🎨 UI/UX | Figma, Design Systems |
-| 🎬 Creative Web | Three.js, GSAP |
+<div align="center">
+
+| 🚀 Area | 💻 Technologies |
+|:---|:---|
+| 🌐 Full Stack | MERN • Next.js |
+| ⚛️ Frontend | React • JavaScript • Tailwind |
+| ⚙️ Backend | Node.js • Express |
+| 🗄️ Database | MongoDB • MySQL |
+| 🎨 UI/UX | Figma • Modern Design |
+| 🎬 Creative Web | Three.js • GSAP |
 | 🤖 AI | AI-powered applications |
-| 🚀 Deployment | Vercel, Netlify |
+| 🚀 Deployment | Vercel • Netlify |
+
+</div>
 
 ---
 
 # 🎯 Current Focus
 
-- ⚛️ Advanced React & Next.js
-- 🌐 Full Stack Web Development
-- 🎨 Modern UI/UX
-- 🎬 Three.js & GSAP
-- 🤖 AI integrations
-- 🚀 Building real-world products
+<div align="center">
+
+🚀 **Full Stack Development**  
+⚛️ **React & Next.js**  
+🎨 **Modern UI/UX**  
+🎬 **Three.js & GSAP**  
+🤖 **AI Integrations**  
+🌐 **Real-World Digital Products**
+
+</div>
 
 ---
 
@@ -177,15 +193,15 @@ src="https://github-readme-stats.vercel.app/api/pin/?username=rohitkashyap7398&r
 
 ## 🚀 TheCodeSpark Technologies
 
-### Turning ideas into powerful digital experiences.
+### Turning Ideas Into Powerful Digital Experiences
 
-**Code • Design • Build • Innovate**
+**CODE • DESIGN • BUILD • INNOVATE**
 
 </div>
 
 ---
 
-# 📫 Connect With Me
+# 📫 Let's Connect
 
 <div align="center">
 
