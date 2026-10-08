@@ -6,10 +6,14 @@
 
 <img src="assets/hero.svg" width="100%" alt="Rohit Kashyap - Full Stack Developer" />
 
+<img src="assets/marquee.svg" width="100%" alt="Skills" />
+
 <a href="https://github.com/rohitkashyap7398?tab=repositories"><img src="assets/card-projects.svg" width="49%" alt="My Projects" /></a>
 <a href="https://cool-dango-ca326e.netlify.app/"><img src="assets/card-stack.svg" width="49%" alt="Tech Stack" /></a>
 <a href="https://cool-dango-ca326e.netlify.app/"><img src="assets/card-codespark.svg" width="49%" alt="TheCodeSpark" /></a>
 <a href="https://www.linkedin.com/in/rohit-kashyap73"><img src="assets/card-hire.svg" width="49%" alt="Hire Me" /></a>
+
+<img src="assets/about.svg" width="100%" alt="About Me" />
 
 <br/>
 
