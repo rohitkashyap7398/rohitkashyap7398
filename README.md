@@ -7,10 +7,6 @@
 </p>
 
 <p align="center">
-  <img src="assets/gallery.svg" alt="Photos of Rohit Kashyap" width="100%" />
-</p>
-
-<p align="center">
   <img src="assets/stack.svg" alt="Tech stack" width="100%" />
 </p>
 
@@ -41,21 +37,13 @@
 </p>
 
 <p align="center">
-  <img src="assets/graphs.svg" alt="Data and graphs" width="100%" />
+  <img src="assets/gallery.svg" alt="The face behind the code" width="100%" />
 </p>
 
 <p align="center">
-  <img src="media/ai-market.jpg" alt="The AI market in 2024" width="92%" />
+  <img src="assets/graphs.svg" alt="The AI market in 2024" width="100%" />
 </p>
 
 <p align="center">
-  <img src="assets/icons.svg" alt="Icons" width="100%" />
-</p>
-
-<p align="center">
-  <img src="media/connect-icons.png" alt="Connect icons" width="38%" />
-</p>
-
-<p align="center">
-  <img src="media/tech-icons.png" alt="Tech stack icons" width="96%" />
+  <img src="assets/icons.svg" alt="Tools I love" width="100%" />
 </p>
