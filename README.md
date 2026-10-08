@@ -1,55 +1,31 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:ff0080&height=220&section=header&text=ROHIT%20KASHYAP&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Founder%20%40%20TheCodeSpark%20Technologies&descAlignY=58&descSize=18"/>
+<a href="https://www.linkedin.com/in/rohit-kashyap73"><img src="assets/btn-linkedin.svg" height="56" alt="LinkedIn" /></a>
+<a href="https://cool-dango-ca326e.netlify.app/"><img src="assets/btn-portfolio.svg" height="56" alt="Portfolio" /></a>
+<a href="https://github.com/rohitkashyap7398"><img src="assets/btn-github.svg" height="56" alt="GitHub" /></a>
 
-# 👋 Hey, I'm Rohit Kashyap
+<img src="assets/hero.svg" width="100%" alt="Rohit Kashyap - Full Stack Developer" />
 
-### 💻 Full Stack Developer | 🚀 Founder | 🤖 Tech Enthusiast
+<a href="https://github.com/rohitkashyap7398?tab=repositories"><img src="assets/card-projects.svg" width="49%" alt="My Projects" /></a>
+<a href="https://cool-dango-ca326e.netlify.app/"><img src="assets/card-stack.svg" width="49%" alt="Tech Stack" /></a>
+<a href="https://cool-dango-ca326e.netlify.app/"><img src="assets/card-codespark.svg" width="49%" alt="TheCodeSpark" /></a>
+<a href="https://www.linkedin.com/in/rohit-kashyap73"><img src="assets/card-hire.svg" width="49%" alt="Hire Me" /></a>
 
-<p>
-  <a href="https://github.com/rohitkashyap7398">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
-  </a>
-  <a href="https://www.instagram.com/">
-    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
-  </a>
-</p>
+<br/>
 
-<img src="https://komarev.com/ghpvc/?username=rohitkashyap7398&label=Profile%20Views&color=ff1493&style=for-the-badge"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FF2E9A&center=true&vCenter=true&width=620&lines=Full+Stack+Developer+(MERN);React+%7C+Next.js+%7C+Three.js+%7C+GSAP;Founder+%40+TheCodeSpark+Technologies;Open+to+opportunities+%F0%9F%9A%80" alt="Typing animation" />
 
-</div>
+<br/><br/>
 
----
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,threejs,figma,git,github&theme=dark" alt="Tech stack" />
 
-<div align="center">
+<br/><br/>
 
-## 🚀 THECODESPARK TECHNOLOGIES
+<img src="https://github-readme-stats.vercel.app/api?username=rohitkashyap7398&show_icons=true&theme=radical&hide_border=true" height="150" alt="GitHub stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rohitkashyap7398&theme=radical&hide_border=true" height="150" alt="GitHub streak" />
 
-### **CODE • DESIGN • BUILD • INNOVATE**
+<br/><br/>
 
-> Building modern digital experiences, powerful web applications  
-> and technology-driven solutions.
+<img src="https://komarev.com/ghpvc/?username=rohitkashyap7398&label=Profile%20Views&color=ff2e9a&style=for-the-badge" alt="Profile views" />
 
 </div>
-
----
-
-# 👨‍💻 About Me
-
-Hi! I'm **Rohit Kashyap**, a passionate developer who loves turning ideas
-into modern, interactive and scalable digital experiences.
-
-I enjoy building websites, web applications, software products and
-exploring new technologies.
-
-```text
-💻 Full Stack Development
-⚛️ React / Next.js
-🌐 Modern Web Applications
-🎨 UI/UX & Creative Development
-🤖 AI & Automation
-🚀 Deployment & Production
-🏢 TheCodeSpark Technologies
