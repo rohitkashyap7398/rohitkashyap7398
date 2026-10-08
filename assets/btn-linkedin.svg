@@ -1,5 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="190" height="56" viewBox="0 0 190 56"><defs><filter id="g" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
-<style>.b{animation:p 2.4s ease-in-out infinite}@keyframes p{50%{stroke-opacity:.45}}</style>
-<rect x="3" y="3" width="184" height="50" rx="12" fill="#12041f" stroke="#ff2e9a" stroke-width="2" class="b" filter="url(#g)"/>
-<text x="26" y="36" fill="#ff2e9a" filter="url(#g)" style="font-family:'Segoe UI',Roboto,Arial,sans-serif;font-size:24px;font-weight:800">in</text>
-<text x="62" y="34" fill="#ffd6ec" style="font-family:'Segoe UI',Roboto,Arial,sans-serif;font-size:16px;font-weight:600">LinkedIn</text></svg>
